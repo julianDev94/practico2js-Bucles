@@ -73,6 +73,7 @@ do {
           alert("Le corresponde la letra E");
           break;
         default:
+          alert("No le corresponde ninguna letra al dni ingresado");
           break;
       }
     }
