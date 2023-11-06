@@ -76,6 +76,8 @@ do {
           alert("No le corresponde ninguna letra al dni ingresado");
           break;
       }
+    }else{
+      alert("El valor ingresado no corresponde a un DNI");
     }
   } else {
     alert("El valor ingresado no es un numero!");
